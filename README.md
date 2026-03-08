@@ -1,135 +1,130 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Jean+Michel+Eid&fontSize=52&fontColor=fff&animation=fadeIn&fontAlignY=40" width="100%"/>
-
 <div align="center">
+  <h1>Hi, I'm Jean Michel Eid 👋</h1>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&pause=1200&color=58A6FF&center=true&vCenter=true&width=650&lines=Software+Engineer+%40+Toters+Delivery;Founder+%26+Lead+Engineer+%40+CherryTech;CCNA+Certified+%7C+42+School+%7C+LIU;Beirut%2C+Lebanon+%F0%9F%87%B1%F0%9F%87%A7" alt="Typing SVG"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&pause=1200&color=58A6FF&center=true&vCenter=true&width=560&lines=Software+Engineer+%40+Toters+Delivery+%F0%9F%9A%80;Founder+%40+CherryTech+%F0%9F%8D%92;42+School+%7C+LIU+%F0%9F%8E%93;Building+from+scratch+since+day+one+%E2%9A%99%EF%B8%8F" alt="Typing SVG"/>
+  <br/><br/>
 
-<br/><br/>
-
-<a href="https://42.fr" target="_blank">
-  <img src="https://42beirut.com/wp-content/uploads/2023/11/download.png" height="55" alt="42 School"/>
-</a>
-&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://www.liu.edu.lb" target="_blank">
-  <img src="https://liu.edu.lb/NewLIU2022/common/images/logo.png" height="55" alt="LIU"/>
-</a>
-&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://www.toters.com" target="_blank">
-  <img src="https://images.squarespace-cdn.com/content/v1/570b5c4162cd9478edc625af/1587042359495-DT89KU48IBU7YDMOQ89Z/LOGO+GREEN-01.png?format=1500w" height="55" alt="Toters"/>
-</a>
-&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://www.cherrytech.dev" target="_blank">
-  <img src="https://www.cherrytech.dev/logo.png" height="55" alt="CherryTech"/>
-</a>
-
+  <a href="https://42beirut.com" target="_blank">
+    <img src="https://42beirut.com/wp-content/uploads/2023/11/download.png" height="50" alt="42 School"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.liu.edu.lb" target="_blank">
+    <img src="https://liu.edu.lb/NewLIU2022/common/images/logo.png" height="50" alt="LIU"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.toters.com" target="_blank">
+    <img src="https://images.squarespace-cdn.com/content/v1/570b5c4162cd9478edc625af/1587042359495-DT89KU48IBU7YDMOQ89Z/LOGO+GREEN-01.png?format=1500w" height="50" alt="Toters"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.cherrytech.dev" target="_blank">
+    <img src="https://www.cherrytech.dev/logo.png" height="50" alt="CherryTech"/>
+  </a>
 </div>
 
 <br/>
 
 ---
 
-## 👨‍💻 About Me
+### 👨‍💻 A bit about me
 
-```
-🚀  Software Engineer @ Toters Delivery — building scalable delivery infrastructure
-🍒  Founder @ CherryTech — custom software, AI integrations & automation pipelines
-🎓  CS Student @ 42 School & LIU — Beirut, Lebanon 🇱🇧
-⚙️  From bare-metal C to full-stack SaaS — I build across the entire stack
-```
+Software Engineer and CS student with a track record of shipping across the full stack — from low-level systems programming in C to scalable backend services, ML solutions, and AI-powered products. I care about clean architecture, real performance, and software that works in production.
 
-<br/>
+- 🚀 **Software Engineer** at [Toters Delivery](https://www.toters.com) — working directly with the CTO (ex-Uber) on high-impact strategic projects, including building matching engines engineered to process and rank millions of records with precision and speed
+- 🍒 **Founder & Lead Engineer** at [CherryTech](https://www.cherrytech.dev) — shipping production-grade web apps, mobile apps, AI integrations & automation pipelines for clients across multiple industries
+- 🎓 **CS Student** at **[42 School Beirut](https://42beirut.com/)** & **[LIU](https://www.liu.edu.lb)**
 
 ---
 
-## 🏗️ 42 School Projects
+### 🛠️ The Toolbox
 
 <div align="center">
 
-<a href="https://github.com/jm961/libft"><img src="https://raw.githubusercontent.com/ayogun/42-project-badges/main/badges/libfte.png" alt="libft"/></a>
-<a href="https://github.com/jm961/get_next_line"><img src="https://raw.githubusercontent.com/ayogun/42-project-badges/main/badges/get_next_linee.png" alt="get_next_line"/></a>
-<a href="https://github.com/jm961/ft_printf"><img src="https://raw.githubusercontent.com/ayogun/42-project-badges/main/badges/ft_printfe.png" alt="ft_printf"/></a>
-<a href="https://github.com/jm961/Born2BeRoot"><img src="https://raw.githubusercontent.com/ayogun/42-project-badges/main/badges/born2beroote.png" alt="Born2BeRoot"/></a>
-<a href="https://github.com/jm961/so_long"><img src="https://raw.githubusercontent.com/ayogun/42-project-badges/main/badges/so_longe.png" alt="so_long"/></a>
-<a href="https://github.com/jm961/push_swap"><img src="https://raw.githubusercontent.com/ayogun/42-project-badges/main/badges/push_swape.png" alt="push_swap"/></a>
-<a href="https://github.com/jm961/minishell"><img src="https://raw.githubusercontent.com/ayogun/42-project-badges/main/badges/minishelle.png" alt="minishell"/></a>
-<a href="https://github.com/jm961/philosophers"><img src="https://raw.githubusercontent.com/ayogun/42-project-badges/main/badges/philosopherse.png" alt="philosophers"/></a>
-
-</div>
+**Languages**
+<br/>
+<img src="https://skillicons.dev/icons?i=c,cpp,php,js,ts,py,java,cs&theme=dark"/>
 
 <br/>
 
----
-
-## 🛠️ Tech Stack
-
-<div align="center">
-
-**Systems & Low-Level**
-
-<img src="https://skillicons.dev/icons?i=c,cpp,bash,linux,vim&theme=dark"/>
-
-<br/><br/>
-
-**Web & Mobile**
-
-<img src="https://skillicons.dev/icons?i=nextjs,react,typescript,nodejs,python,tailwind&theme=dark"/>
+**Web & Backend**
+<br/>
+<img src="https://skillicons.dev/icons?i=laravel,nextjs,react,nodejs,tailwind,graphql&theme=dark"/>
 
 <br/>
 
-<img src="https://skillicons.dev/icons?i=swift,kotlin,electron,flutter&theme=dark"/>
-
-<br/><br/>
-
-**Cloud, Data & DevOps**
-
-<img src="https://skillicons.dev/icons?i=aws,docker,terraform,postgres,mongodb,git&theme=dark"/>
-
-</div>
-
+**Automation & AI**
 <br/>
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=jm961&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true" height="175" alt="GitHub Stats"/>
-&nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jm961&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="175" alt="Top Languages"/>
-
-<br/><br/>
-
-<img src="https://streak-stats.demolab.com?user=jm961&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
-
-<br/><br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=jm961&theme=tokyo-night&hide_border=true&area=true" width="96%" alt="Contribution Graph"/>
-
-</div>
-
-<br/>
-
----
-
-## 🤝 Connect with Me
-
-<div align="center">
-
-<a href="https://www.linkedin.com/in/jean-michel-eid" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
+<img src="https://skillicons.dev/icons?i=pytorch,selenium&theme=dark"/>
 &nbsp;
-<a href="https://www.cherrytech.dev" target="_blank">
-  <img src="https://img.shields.io/badge/cherrytech.dev-e8003d?style=for-the-badge&logo=google-chrome&logoColor=white"/>
-</a>
+<a href="https://n8n.io"><img src="https://n8n.io/favicon.ico" height="48" alt="n8n"/></a>
+&nbsp;
+<a href="https://make.com"><img src="https://cdn.simpleicons.org/make/6D00CC" height="48" alt="Make.com"/></a>
 
-<br/><br/>
+<br/>
 
-<img src="https://komarev.com/ghpvc/?username=jm961&style=flat-square&color=58A6FF&label=Profile+Views"/>
+**Cloud & DevOps**
+<br/>
+<img src="https://skillicons.dev/icons?i=aws,docker,terraform,postgres,mongo,git&theme=dark"/>
 
 </div>
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%"/>
+---
+
+### 🏗️ 42 School Journey
+
+<div align="center">
+  <a href="https://github.com/jm961/libft"><img src="https://raw.githubusercontent.com/ayogun/42-project-badges/main/badges/libfte.png" alt="libft"/></a>
+  <a href="https://github.com/jm961/get_next_line"><img src="https://raw.githubusercontent.com/ayogun/42-project-badges/main/badges/get_next_linee.png" alt="get_next_line"/></a>
+  <a href="https://github.com/jm961/ft_printf"><img src="https://raw.githubusercontent.com/ayogun/42-project-badges/main/badges/ft_printfe.png" alt="ft_printf"/></a>
+  <a href="https://github.com/jm961/Born2BeRoot"><img src="https://raw.githubusercontent.com/ayogun/42-project-badges/main/badges/born2beroote.png" alt="Born2BeRoot"/></a>
+  <a href="https://github.com/jm961/so_long"><img src="https://raw.githubusercontent.com/ayogun/42-project-badges/main/badges/so_longe.png" alt="so_long"/></a>
+  <a href="https://github.com/jm961/push_swap"><img src="https://raw.githubusercontent.com/ayogun/42-project-badges/main/badges/push_swape.png" alt="push_swap"/></a>
+  <a href="https://github.com/jm961/minishell"><img src="https://raw.githubusercontent.com/ayogun/42-project-badges/main/badges/minishelle.png" alt="minishell"/></a>
+  <a href="https://github.com/jm961/philosophers"><img src="https://raw.githubusercontent.com/ayogun/42-project-badges/main/badges/philosopherse.png" alt="philosophers"/></a>
+</div>
+
+<br/>
+
+---
+
+### 📊 Analytics
+
+<table align="center" width="100%">
+  <tr>
+    <td width="50%" align="center">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=jm961&theme=github_dark" alt="GitHub Stats" width="100%"/>
+    </td>
+    <td width="50%" align="center">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jm961&theme=github_dark" alt="Top Languages" width="100%"/>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <img src="https://streak-stats.demolab.com?user=jm961&theme=github_dark&hide_border=true" alt="GitHub Streak"/>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <img src="https://github-readme-activity-graph.vercel.app/graph?username=jm961&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="Contribution Graph"/>
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+---
+
+### 🤝 Let's Connect
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/jean-michel-eid" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" height="40" alt="LinkedIn"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.cherrytech.dev" target="_blank">
+    <img src="https://www.cherrytech.dev/logo.png" height="40" alt="CherryTech"/>
+  </a>
+  <br/><br/>
+  <img src="https://komarev.com/ghpvc/?username=jm961&style=flat-square&color=58A6FF&label=Profile+Views"/>
+</div>
