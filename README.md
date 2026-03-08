@@ -4,22 +4,22 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&pause=1200&color=58A6FF&center=true&vCenter=true&width=560&lines=Software+Engineer+%40+Toters+Delivery+%F0%9F%9A%80;Founder+%40+CherryTech+%F0%9F%8D%92;42+School+%7C+LIU+%F0%9F%8E%93;Building+from+scratch+since+day+one+%E2%9A%99%EF%B8%8F" alt="Typing SVG"/>
 
-<br/>
+<br/><br/>
 
 <a href="https://42.fr" target="_blank">
-  <img src="https://img.shields.io/badge/42_School-000000?style=for-the-badge&logo=42&logoColor=white" height="30"/>
+  <img src="https://42beirut.com/wp-content/uploads/2023/11/download.png" height="55" alt="42 School"/>
 </a>
-&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://www.liu.edu.lb" target="_blank">
-  <img src="https://img.shields.io/badge/LIU-1a3a6b?style=for-the-badge&logoColor=white" height="30"/>
+  <img src="https://liu.edu.lb/NewLIU2022/common/images/logo.png" height="55" alt="LIU"/>
 </a>
-&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://www.toters.com" target="_blank">
-  <img src="https://img.shields.io/badge/Toters-FF4500?style=for-the-badge&logoColor=white" height="30"/>
+  <img src="https://images.squarespace-cdn.com/content/v1/570b5c4162cd9478edc625af/1587042359495-DT89KU48IBU7YDMOQ89Z/LOGO+GREEN-01.png?format=1500w" height="55" alt="Toters"/>
 </a>
-&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://www.cherrytech.dev" target="_blank">
-  <img src="https://img.shields.io/badge/CherryTech-e8003d?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0xMiAyQzYuNDggMiAyIDYuNDggMiAxMnM0LjQ4IDEwIDEwIDEwIDEwLTQuNDggMTAtMTBTMTcuNTIgMiAxMiAyem0tMSAxNUg5VjhoMnY5em00IDBIMTNWOGgydjl6Ii8+PC9zdmc+&logoColor=white" height="30"/>
+  <img src="https://www.cherrytech.dev/logo.png" height="55" alt="CherryTech"/>
 </a>
 
 </div>
@@ -31,7 +31,7 @@
 ## 👨‍💻 About Me
 
 ```
-🏢  Software Engineer @ Toters Delivery — building scalable delivery infrastructure
+🚀  Software Engineer @ Toters Delivery — building scalable delivery infrastructure
 🍒  Founder @ CherryTech — custom software, AI integrations & automation pipelines
 🎓  CS Student @ 42 School & LIU — Beirut, Lebanon 🇱🇧
 ⚙️  From bare-metal C to full-stack SaaS — I build across the entire stack
@@ -121,7 +121,7 @@
 </a>
 &nbsp;
 <a href="https://www.cherrytech.dev" target="_blank">
-  <img src="https://img.shields.io/badge/CherryTech.dev-e8003d?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+  <img src="https://img.shields.io/badge/cherrytech.dev-e8003d?style=for-the-badge&logo=google-chrome&logoColor=white"/>
 </a>
 
 <br/><br/>
